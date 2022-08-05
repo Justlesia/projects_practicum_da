@@ -2,6 +2,7 @@
 ## Проекты / Projects 
 
 Professional Retraining Diploma ["Specialist in Data Science"](https://drive.google.com/file/d/1f0ePYTtocqe-K0eU2YlZgCb1UvNMssfN/view?usp=sharing)
+
 Professional Retraining Diploma ["Data Analyst"](https://drive.google.com/file/d/14oOcMnctts1D4Hi4rFac_az55hsb1AVg/view?usp=sharing)
 
 Список проектов:
